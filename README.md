@@ -25,19 +25,7 @@
 ![Data structures](https://img.shields.io/badge/Data%20structure-c%2B%2B-blue)
 ![Assembly Language](https://img.shields.io/badge/Assembly%20Language%20-16%20bit--32%20bit-brightgreen)
 
-#### Web Technologies:
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Dom](https://img.shields.io/badge/Dom-javascript-blu)
-
-🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-
-
-
+### 👥 Connect with Me
 <div class="social-links">
   <a href="https://wa.link/a">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
@@ -56,7 +44,7 @@
   </a>
 </div>
 
-### Tools I Use:
+### Technology I'm familiar with:
 <img width="75px" src="icons/tux.png" alt="Linux Tux" /><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" /> <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
 <img width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" />
 <img width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Icon" />
