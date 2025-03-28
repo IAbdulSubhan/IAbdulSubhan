@@ -32,32 +32,32 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Dom](https://img.shields.io/badge/Dom-javascript-blu)
 
-#### Tools and Platforms:
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
-
 🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 
-<p align='center'>
+
+
+<div class="social-links">
   <a href="https://wa.link/a">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/abdul-subhan-mian/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.instagram.com/abdulsubhanmian/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://twitter.com/abdulsubhanmian">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <ul>
+  </a>
+  <a href="mailto:subhankhalidofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <li>subhankhalidofficial@gmail.com</li>
-  </ul>
-</p>
+  </a>
+</div>
+
+### Tools I Use:
+<img width="75px" src="icons/tux.png" alt="Linux Tux" /><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" /> <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
 
 
 </table></markdown-accessiblity-table>
