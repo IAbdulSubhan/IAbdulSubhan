@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 I'm Abdul Subhan </h1>
 
 
-<p align="center"><img src="animation.gif" width="300" alt="animation.gif"></p>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 
 
 
