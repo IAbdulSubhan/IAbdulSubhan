@@ -25,6 +25,9 @@
 ![Data structures](https://img.shields.io/badge/Data%20structure-c%2B%2B-blue)
 ![Assembly Language](https://img.shields.io/badge/Assembly%20Language%20-16%20bit--32%20bit-brightgreen)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulsubhan&layout=compact&theme=vision-friendly-dark)](https://github.com/faiznwasif/github-readme-stats) 
+
+
 ### 👥 Connect with Me
 <div class="social-links">
   <a href="https://wa.link/a">
