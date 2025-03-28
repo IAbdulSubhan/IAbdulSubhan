@@ -27,8 +27,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdulsubhan&layout=compact&theme=vision-friendly-dark)](https://github.com/faiznwasif/github-readme-stats) 
 
-
-### 👥 Connect with Me
+## 🌐 Connect with Me
 <div class="social-links">
   <a href="https://wa.link/a">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
