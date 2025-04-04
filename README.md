@@ -13,7 +13,6 @@
 - 🎓 &nbsp; Studied Computer Science at FAST National University.
 - 😊 &nbsp; Passionate about coding and exploring new technologies.
 - 🥋 &nbsp; Hobbies: Playing Volleyball.
-- 💻 &nbsp; Code mantra: "while((Be_happy)){code(); };!"
 - 🕋 &nbsp; "And Allah found you lost and guided [you] <-{surah rehman}"
 
 <h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
