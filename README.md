@@ -18,11 +18,24 @@
 <h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 #### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
-![Data structures](https://img.shields.io/badge/Data%20structure-c%2B%2B-blue)
-![Assembly Language](https://img.shields.io/badge/Assembly%20Language%20-16%20bit--32%20bit-brightgreen)
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+</p>
+
+- **Programming**: Python | SQL | Blue Prism
+- **Database**: MySQL | MongoDB
+- **Technologies**: Machine Learning | Deep Learning | RPA
+- **Cloud**: AWS SageMaker | AWS S3 | AWS EC2
+- **Version Control**: GIT | GitHub
+- **Frameworks**: Tensorflow | Keras | Scikit-Learn | Optuna
+- **Visualization**: Matplotlib | Seaborn
+- **Data Analysis**: Pandas | Numpy | Scipy
+- **Development**: Streamlit | FastAPI | Flask
 
 <table width="100%">
   <tr>
