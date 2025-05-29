@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 I'm Abdul Subhan </h1>
 
 <div align="center">
-  <img  alt="coding" width="60%" height="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+  <img  alt="coding" width="60%" height="50%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 </div>
 
 
