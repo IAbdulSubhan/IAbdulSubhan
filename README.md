@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 I'm Abdul Subhan </h1>
 
 <div align="center">
-  <img  alt="coding" width="600" height="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+  <img  alt="coding" width="60%" height="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 </div>
 
 
@@ -94,7 +94,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 </table></markdown-accessiblity-table>
 <hr>
 
-<table> <tr> 
+<table width="60%"> <tr> 
   <td><img src="https://github-readme-stats.vercel.app/api?username=iabdulsubhan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="iabdulsubhan"/></td> <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iabdulsubhan&theme=highcontrast&hide_border=false" alt="iabdulsubhan" /></td> </tr> </table>
 
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" style="max-width: 100%;"></a></p>
