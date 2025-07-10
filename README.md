@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 I'm Abdul Subhan </h1>
 
 <div align="center">
-  <img  alt="coding" width="100%" height="100%" src="abdulsubhangithub.png">
+  <img  alt="coding" src="abdulsubhangithub.png">
 </div>
 
 
